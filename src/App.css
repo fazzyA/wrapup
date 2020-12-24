@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.header{
+  background-color: beige;
+}
+ul li{
+  display: inline-block;
+  margin: 5px;
+}
+.list{
+  width: 400px;
+  background-color: burlywood;
+  margin: auto;
+  padding: 10px;
+}
